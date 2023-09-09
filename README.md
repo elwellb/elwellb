@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Braden!</h1>
 <h3 align="center">Senior FSU Student studying IT and Studio Art with a focus on Moving Image</h3>
 
+<hr>
+
 - 🌱 I’m currently learning **Maya, C++, JS**
 
 - 👨‍💻 All of my works are available [here](https://www.bradenelwell.com/)
