@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Maya, C++, JS**
 
-- 👨‍💻 All of my projects are available [here](https://www.bradenelwell.com/technicalworks)
+- 👨‍💻 All of my works are available [here](https://www.bradenelwell.com/)
 
 - ⚡ Fun fact **I have assets in a Nintendo Switch game!**
 
