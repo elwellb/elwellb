@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Braden!</h1>
-<h3 align="center">Senior FSU Student studying IT and Studio Art with a focus on Moving Image</h3>
+<h3 align="center">Pipeline Technical Artist at Florida Interactive Entertainment Academy</h3>
 
 <hr>
 
-- 🌱 I’m currently learning **Maya, C++, JS**
+- 🌱 I’m currently learning **Houdini and Advanced Python**
 
 - 👨‍💻 All of my works are available [here](https://www.bradenelwell.com/)
 
